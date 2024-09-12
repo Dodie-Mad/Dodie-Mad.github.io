@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: image_2024-09-11_215751805.png
+image: img/image_2024-09-11_215751805.png
 title: "International Student Association: Public Relations Officer"
 date: 2024-01-01
 published: true
