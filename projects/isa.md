@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: image_2024-09-11_215751805.png
 title: "International Student Association: Public Relations Officer"
 date: 2024-01-01
 published: true
@@ -10,9 +10,6 @@ labels:
   - Social
 summary: "Working in a leadership position for a Register Independent Organization (RIO)"
 ---
-
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
-
 International Student Organization, more commonly known as ISA, is a social organization for local and international students alike. It is made to be a safe space where members can enter an environment free
 from any sort of discrimination or hardship that may come with who they are. It is a place to meet new friends, gain new and fun experiences, and to converse with people that you would have no thought thinking
 you would meet. That is at least what ISA was to me as I ran to become an officer. 
