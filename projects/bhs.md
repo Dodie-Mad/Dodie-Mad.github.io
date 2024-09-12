@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/image_2024-09-11_215751805.png
+image: img/image_2024-09-11_215847944.png
 title: "Senior Project: Internship"
 date: 2020-09-09
 published: true
@@ -9,6 +9,7 @@ labels:
   - Internship
   - Work Experience
 
+<img class="img-fluid" src="..image_2024-09-11_215847944.png">
 summary: "Working an internship in high school to attain honor graduate for Henry Perrine Baldwin High School"
 ---
 For the purpose of a challenge and obtaining a golden stole of my now alma mater, I undertook senior project Baldwin High School, for the ultimate goal of Honor Graduate,
