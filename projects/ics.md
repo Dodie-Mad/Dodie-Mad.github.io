@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/image_2024-09-11_215751805.png
+image: img/image_2024-09-11_222133234.png
 title: "ICS 212: Animal Class"
 date: 2023-11-5
 published: true
