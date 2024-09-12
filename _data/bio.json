@@ -1,26 +1,24 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Dodie Madriaga",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "https://avatars.githubusercontent.com/u/179762995?s=400&u=ed9e25013e2b7da6ffa987dfe8a565c2fa3205aa&v=4",
+    "email": "dodiemad@hawaii.edu",
+    "phone": "808-385-2965",
+    "website": "https://dodie-mad.github.io",
+    "summary": "Aloha! I am studying for a B.A. in Computer Science in Security Science or Cyber Security at the University of Hawaii at Manoa. I expect to graduate in Spring, 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "Dodie-Mad", "url": "https://dodie-mad.github.io" },
+      { "network": "linkedin", "username": "Dodie Madriaga", "url": "www.linkedin.com/in/dodie-madriaga-57a59b309" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Development" },
+    { "name": "Cyber Security" },
+    { "name": "Artificial Intelligence" },
+    { "name": "Networking" },
+    { "name": "Gym" }
   ],
   "skills": [
     {
@@ -35,9 +33,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2026)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2023-09-01",
       "endDate": "Present",
       "courses": [
       ]
