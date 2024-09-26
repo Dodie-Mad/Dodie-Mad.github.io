@@ -5,9 +5,11 @@ title: "Typescript Reflection"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-25
 published: true
+
 labels:
   - Reflection
 ---
+![image](https://github.com/user-attachments/assets/9840fcdd-9760-41cc-9009-e0e741a78966)
 
 I personally like the use of an actual IDE like VSCode vs a web based compiler like Typescript Playground or something like Replit. It starts much faster and is way simpler to open rather than going to a website and waiting for code to open. On a side note, because Typescript Playground has a JavaScript translator on the terminal on the right, it sometimes slows down my laptop to a crawl when dealing with lots of code, like the WODs and practices where we dealt with a huge 600+ line chunk of data. VSCode doesn’t do that and I’m all for it. 
 
