@@ -9,7 +9,7 @@ labels:
   - Bootstrap
 ---
 
-<img src="https://download.logo.wine/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.png">
+<img src="https://download.logo.wine/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.png" height=100 height=100>
 <body>
   <h1>UI Frameworks</h1>
   <p>
