@@ -8,7 +8,7 @@ labels:
   - Reflection
   - Bootstrap
 ---
-![image](img/image.jpg)
+![image]([img/image.jpg](https://raw.githubusercontent.com/Dodie-Mad/Dodie-Mad.github.io/refs/heads/main/img/image.jpg))
 <body>
   <h1>UI Frameworks</h1>
   <p>
