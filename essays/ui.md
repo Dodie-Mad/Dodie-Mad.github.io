@@ -9,7 +9,6 @@ published: true
 labels:
   - Reflection
 ---
-![image]([img/image.jpg](https://raw.githubusercontent.com/Dodie-Mad/Dodie-Mad.github.io/refs/heads/main/img/image.jpg))
 
 UI frameworks allow for more efficient creation of UIs. They allow for more flexible and useful applications when it comes down to designing UIs of multiple different types of devices, be it on a phone, tablet, or computer. In the use of UI frameworks for web development, they allow for a more consistent design among different devices as they may interpret the CSS or HTML differently. 
 
