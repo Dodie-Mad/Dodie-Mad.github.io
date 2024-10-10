@@ -9,7 +9,7 @@ published: true
 labels:
   - Reflection
 ---
-![image](img/image_2024-10-09_222447743.png)
+![image](img/image.jpg)
 
 In using UI frameworks
 
