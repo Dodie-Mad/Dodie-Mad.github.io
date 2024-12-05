@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Design Patterns? Never Heard of 'Em"
+title: "Spaghetti Code No Longer: Design Patterns"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-4
 published: true
