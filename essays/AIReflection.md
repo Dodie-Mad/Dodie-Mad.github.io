@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Sure, Here's an Essay About AI: AI in The Classroom"
-date: 2024-11-05
+date: 2024-12-16
 published: true
 ---
 <img src="https://www.edigitalagency.com.au/wp-content/uploads/ChatGPT-logo-PNG-medium-size-white-green-background.png" height=250 height=250>
