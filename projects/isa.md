@@ -32,4 +32,4 @@ My experiences working as an officer in an RIO have been invaluable and I feel t
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://www.instagram.com/isauhm?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><i class="large github icon "></i>Interational Student Association Instagram Page</a>
