@@ -22,16 +22,16 @@ DaClub is an application that me and 4 others have developed to allow for site v
 
 <h2>Working on DaClub</h2>
 
+Before working on the project itself, came team formation. We were a group of 5 and our team name ICS Code Crew. We made our regular meeting times, team contract, and started to brainstorm on how to implement an application that does what we set out to do. This was before the formal Milestone portion of our project development. 
+
+We carried on towards the starting of our app development, deciding on a Next.js framework to start off. 
+
+You can find the source code for DaClub on [GitHub](https://github.com/ics-314-code-crew).
+
+You can find more information about the project on [our website](https://daclub-omega.vercel.app/).
 
 
 
-In this assignment from ICS 212, we were told to implement an Animal class that had various methods, variables, and instances of said object. 
-
-It started with the declaration of various variables, all protected as to not be accessible outside of the class and its descendants. Then the public methods that can be accessed from anywhere.
-Methods like eat, sleep, setcolor and get color can be used. Then respective dog and cat classes are made, extending the Animal class. They override the methods within the Animal class and 
-modify them to whatever they are set to. 
-
-This assignment helped us to to get familiar with classes, inheritance, and privacy modifiers like public, protected, and private.
 
 #include <iostream>
 
