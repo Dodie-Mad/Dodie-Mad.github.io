@@ -14,6 +14,7 @@ summary: "Da Club"
 <div>
 <img src="img/DaClub.png"> 
 </div>
+
 UH Manoa definitely has a large catalogue of its respective clubs and various registered independent organizations (RIOs) but has the issue of lack of exposure. The most that there is of these RIOs is a spreadsheet online that isn’t necessarily the most telling representative of what the organization is about.
 
 DaClub is an application that me and 4 others have developed to allow for site visitors to view UH Manoa’s RIOs. From there, users can log in with their profiles, create them if they don’t, view the clubs, and even start a club should you run one!
