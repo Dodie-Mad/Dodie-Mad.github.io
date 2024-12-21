@@ -10,6 +10,9 @@ labels:
   - Coding
 summary: "Creating and applying classes in C++ using animals as a basis in ICS 212"
 ---
+<img class="img-fluid" src="{{ site.baseurl }}/img/CPlusPlus.png" alt="C++ Image"> 
+
+
 In this assignment from ICS 212, we were told to implement an Animal class that had various methods, variables, and instances of said object. 
 
 It started with the declaration of various variables, all protected as to not be accessible outside of the class and its descendants. Then the public methods that can be accessed from anywhere.
