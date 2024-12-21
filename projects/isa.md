@@ -23,6 +23,7 @@ situations that are unfavorable or from which cannot be fixed but instead, salva
 
 My experiences working as an officer in an RIO have been invaluable and I feel that it makes my capabilities in working with a team stronger.
 
+![ISA Image](img/image_2024-09-11_215751805.png)
 
 <hr>
 
