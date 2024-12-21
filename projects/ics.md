@@ -10,7 +10,8 @@ labels:
   - Coding
 summary: "Creating and applying classes in C++ using animals as a basis in ICS 212"
 ---
-<img class="img-fluid" src="../img/CPlusPlus.png" alt="C++ Image"> 
+
+<img class="img-fluid" src="/img/CPlusPlus.png" alt="C++ Image"> 
 
 
 In this assignment from ICS 212, we were told to implement an Animal class that had various methods, variables, and instances of said object. 
