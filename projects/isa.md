@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/image_2024-09-11_215751805.png
+image: img/ISA.png
 title: "International Student Association: Public Relations Officer"
 date: 2024-01-01
 published: true
@@ -23,7 +23,7 @@ situations that are unfavorable or from which cannot be fixed but instead, salva
 
 My experiences working as an officer in an RIO have been invaluable and I feel that it makes my capabilities in working with a team stronger.
 
-<img class="img-fluid" src="{{ site.baseurl }}/img/image_2024-09-11_215751805.png" alt="ISA Image">
+<img class="img-fluid" src="/img/ISA.png" alt="ISA Image">
 
 <hr>
 

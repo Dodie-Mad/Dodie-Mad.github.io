@@ -12,7 +12,7 @@ labels:
 summary: "Working an internship in high school to attain honor graduate for Henry Perrine Baldwin High School"
 ---
 
-<img class="img-fluid" src="{{ site.baseurl }}/img/image_2024-09-11_215847944.png" alt="Internship Image">
+<img class="img-fluid" src="../img/image_2024-09-11_215847944.png" alt="Internship Image">
 
 For the purpose of a challenge and obtaining a golden stole of my now alma mater, I undertook senior project Baldwin High School, for the ultimate goal of Honor Graduate,
 with mine focusing in STEM, as I was doing it under a digital media class. I was given the option of making a PSA video, An essay with a call to action, or to work an internship. 
